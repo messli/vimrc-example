@@ -329,7 +329,7 @@ let g:SignatureMap = {
 " === Undotree
 " ===
 let g:undotree_DiffAutoOpen = 0
-map L :UndotreeToggle<CR>
+map ud :UndotreeToggle<CR>
 
 
 
